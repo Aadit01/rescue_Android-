@@ -23,7 +23,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".policeActivity"></activity>
+        <activity android:name=".policeActivity" />
+        <activity android:name=".hospitalActivity" />
+        <activity android:name=".firestationActivity"></activity>
     </application>
 
 </manifest>
