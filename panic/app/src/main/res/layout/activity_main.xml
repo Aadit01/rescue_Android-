@@ -41,8 +41,8 @@
 
     <Button
         android:id="@+id/police01"
-        android:layout_width="180dp"
-        android:layout_height="124dp"
+        android:layout_width="142dp"
+        android:layout_height="116dp"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginLeft="8dp"
@@ -50,8 +50,8 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:background="#d10099cc"
-        android:text="police"
         android:onClick="nextpolicePage"
+        android:text="police"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -61,8 +61,8 @@
 
     <Button
         android:id="@+id/hospital01"
-        android:layout_width="182dp"
-        android:layout_height="129dp"
+        android:layout_width="146dp"
+        android:layout_height="115dp"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginLeft="8dp"
@@ -70,8 +70,8 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:background="@android:color/holo_orange_dark"
-        android:text="hospital"
         android:onClick="nextHospitalPage"
+        android:text="hospital"
         app:layout_constraintBottom_toBottomOf="@+id/frameLayout"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -81,8 +81,8 @@
 
     <Button
         android:id="@+id/member01"
-        android:layout_width="177dp"
-        android:layout_height="130dp"
+        android:layout_width="143dp"
+        android:layout_height="117dp"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginLeft="8dp"
@@ -90,8 +90,8 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:background="@android:color/holo_orange_light"
-        android:text="members"
         android:onClick="editMemberPage"
+        android:text="members"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
@@ -101,8 +101,8 @@
 
     <Button
         android:id="@+id/firestation01"
-        android:layout_width="176dp"
-        android:layout_height="129dp"
+        android:layout_width="145dp"
+        android:layout_height="117dp"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginLeft="8dp"
@@ -110,13 +110,29 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:background="@android:color/holo_green_light"
-        android:text="firestation"
         android:onClick="nextFirestationPage"
+        android:text="firestation"
         app:layout_constraintBottom_toBottomOf="@+id/frameLayout"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.333" />
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="8dp"
+        android:text="goback"
+        android:onClick="goBack"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
 </android.support.constraint.ConstraintLayout>

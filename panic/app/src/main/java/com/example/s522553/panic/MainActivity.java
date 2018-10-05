@@ -31,6 +31,8 @@ public class MainActivity extends AppCompatActivity {
         Intent i= new Intent(this,policeActivity.class);
         startActivity(i);
     }
-
+    public void goBack (View v){
+        finish();
+    }
 
 }
