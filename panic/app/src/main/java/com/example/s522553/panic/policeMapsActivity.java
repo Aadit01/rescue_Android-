@@ -40,7 +40,7 @@ public class policeMapsActivity extends FragmentActivity implements OnMapReadyCa
 
         // Add a marker in Missouri and move the camera
         LatLng maryville = new LatLng(40.350951, -94.882671);
-        mMap.addMarker(new MarkerOptions().position(maryville).title("Marker in Colden Hall"));
+        mMap.addMarker(new MarkerOptions().position(maryville).title("Marker in Maryville"));
         mMap.moveCamera(CameraUpdateFactory.newLatLng(maryville));
     }
 }

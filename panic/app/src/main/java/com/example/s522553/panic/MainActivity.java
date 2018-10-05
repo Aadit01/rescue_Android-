@@ -18,17 +18,17 @@ public class MainActivity extends AppCompatActivity {
     }
     public void nextHospitalPage(View v)
     {
-        Intent i= new Intent(this,policeActivity.class);
+        Intent i= new Intent(this,hospitalActivity.class);
         startActivity(i);
     }
     public void nextFirestationPage(View v)
     {
-        Intent i= new Intent(this,policeActivity.class);
+        Intent i= new Intent(this,firestationActivity.class);
         startActivity(i);
     }
     public void editMemberPage(View v)
     {
-        Intent i= new Intent(this,policeActivity.class);
+        Intent i= new Intent(this,memberActivity.class);
         startActivity(i);
     }
 
