@@ -7,8 +7,9 @@ and fire station. Just by pressing the panic button, users current location can 
 members at regular interval SMS and automatically dial 911.
 
 For the first milestone we worked on: 
-1)We choose to work on navigation for activity.This formates look more clean.
-2)We used fragments for hospitals, police station and firestation. 
-3) We are currently looking into google map API integration.
-4)Working with user login page.
+1)the first page is the login page. Login doesn't work at this point.
+2) You can click on skip to go to the main page
+3)All the main activity has there own personal page
+4) We are currently looking into google map API integration.
+5)Working with user login page.
 
