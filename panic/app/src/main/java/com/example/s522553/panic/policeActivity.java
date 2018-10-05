@@ -12,6 +12,11 @@ public class policeActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_police2);
     }
+    public void policemap(View v){
+        Intent i= new Intent(this,policeMapsActivity.class);
+        startActivity(i);
+    }
+
 
     }
 
