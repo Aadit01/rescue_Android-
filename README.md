@@ -10,6 +10,7 @@ For the first milestone we worked on:
 1)the first page is the login page. Login doesn't work at this point.
 2) You can click on skip to go to the main page
 3)All the main activity has there own personal page
+=>police;hospital;firestation has still google map api to configure and Member has login information for maximum 3 members
 4) We are currently looking into google map API integration.
 5)Working with user login page.
 
