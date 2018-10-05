@@ -1,6 +1,7 @@
 Topic:Rescue
 Professor: Charles Hoot
 Group Member: Jing Li, Pappu Shah, Aadit Yadav, Abhishek manandhar
+Devices running on is : Nexus 6p API 28 (Android 9-28)
 
 Uses: We build this application to help people in danger. User can connect to nearest hospital, police station
 and fire station. Just by pressing the panic button, users current location can be send to Family
