@@ -17,9 +17,4 @@ public class signinActivity extends AppCompatActivity {
         Intent i= new Intent(this,MainActivity.class);
         startActivity(i);
     }
-    public void cancel (View v){
-        android.os.Process.killProcess(android.os.Process.myPid());
-        System.exit(1);
-
-    }
 }

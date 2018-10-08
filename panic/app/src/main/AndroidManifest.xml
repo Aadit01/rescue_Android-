@@ -47,12 +47,8 @@
 
         <activity
             android:name=".policeMapsActivity"
-<<<<<<< HEAD
-            android:label="@string/title_activity_police_maps"></activity>
-=======
             android:label="@string/title_activity_police_maps" />
         <activity android:name=".memberActivity"></activity>
->>>>>>> a5e7a8aea85c2f09e54e30f97aaff52873b77f50
     </application>
 
 </manifest>

@@ -31,8 +31,6 @@ public class MainActivity extends AppCompatActivity {
         Intent i= new Intent(this,memberActivity.class);
         startActivity(i);
     }
-    public void goBack (View v){
-        finish();
-    }
+
 
 }
