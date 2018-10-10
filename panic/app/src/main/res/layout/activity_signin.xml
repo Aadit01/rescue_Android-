@@ -5,10 +5,18 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/red"
-    tools:context=".signinActivity">
+    tools:context="com.example.s522553.panic.signinActivity">
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:title = "Login Screen"
+        android:textAlignment="center">
+    </android.support.v7.widget.Toolbar>
+
 
     <Button
-        android:id="@+id/button"
+        android:background="@drawable/button_style"
+        android:id="@+id/skipbutton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
@@ -26,7 +34,9 @@
         app:layout_constraintVertical_bias="0.703" />
 
     <EditText
-        android:id="@+id/editText"
+        android:background="@drawable/edit_text_style"
+        android:hint="Enter e-mail"
+        android:id="@+id/emailET"
         android:layout_width="271dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
@@ -37,7 +47,7 @@
         android:layout_marginTop="8dp"
         android:ems="10"
         android:inputType="textEmailAddress"
-        android:text="NoReady@Gmail.com"
+
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.503"
@@ -46,7 +56,9 @@
         app:layout_constraintVertical_bias="0.132" />
 
     <EditText
-        android:id="@+id/editText2"
+        android:background="@drawable/edit_text_style"
+        android:hint="Password"
+        android:id="@+id/PasswordET"
         android:layout_width="263dp"
         android:layout_height="42dp"
         android:layout_marginBottom="8dp"
@@ -57,7 +69,7 @@
         android:layout_marginTop="8dp"
         android:ems="10"
         android:inputType="textPassword"
-        android:text="Password"
+
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.503"
@@ -66,7 +78,8 @@
         app:layout_constraintVertical_bias="0.282" />
 
     <Button
-        android:id="@+id/button3"
+        android:background="@drawable/button_style"
+        android:id="@+id/Register"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
@@ -75,7 +88,7 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
-        android:text="Done"
+        android:text="Register"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
