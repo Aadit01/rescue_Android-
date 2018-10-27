@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "908775865300",
+    "firebase_url": "https://fir-panicapp.firebaseio.com",
+    "project_id": "fir-panicapp",
+    "storage_bucket": "fir-panicapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908775865300:android:deaae79cdf056ac3",
+        "android_client_info": {
+          "package_name": "com.firebaseloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908775865300-uata7d2sai5aaij5rcqc96bg76k0gq6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvb5C61XJtshI2KJv48Ys0f_P6svs2CJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
