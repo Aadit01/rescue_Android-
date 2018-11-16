@@ -7,14 +7,18 @@
     android:background="@drawable/red"
     tools:context="com.firebaseloginapp.AccountActivity.LoginActivity">
 
-    <android.support.v7.widget.Toolbar
-        android:layout_width="265dp"
-        android:layout_height="wrap_content"
-        android:textAlignment="center"
-
-        app:title="Login Screen"
-        tools:layout_editor_absoluteX="119dp"></android.support.v7.widget.Toolbar>
-
+    <ImageView
+        android:layout_width="118dp"
+        android:layout_height="87dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:src="@drawable/Logo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.034" />
     <LinearLayout
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"

@@ -1,4 +1,0 @@
-#Fri Oct 26 23:12:45 CDT 2018
-base.0=C\:\\Users\\Aadit yadav\\Downloads\\FirebaseLoginApp-20181010T031332Z-001\\FirebaseLoginApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex
