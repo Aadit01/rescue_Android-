@@ -84,12 +84,12 @@
         "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\dfb0da06bad704051dec36d7a09dfb44\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hospital.xml.flat",
-        "source": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\src\\main\\res\\layout\\activity_hospital.xml"
-    },
-    {
         "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\dfb0da06bad704051dec36d7a09dfb44\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hospital.xml.flat",
+        "source": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\src\\main\\res\\layout\\activity_hospital.xml"
     },
     {
         "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11_notification_template_big_media.xml.flat",
@@ -100,12 +100,12 @@
         "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.0.2.aar\\c4a511f114b1a99d47f7d1563e58d5a2\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
-        "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4_common_plus_signin_btn_icon_dark_focused.9.png.flat",
-        "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.0.2.aar\\c4a511f114b1a99d47f7d1563e58d5a2\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png"
-    },
-    {
         "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_set.png.flat",
         "source": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\src\\main\\res\\drawable\\set.png"
+    },
+    {
+        "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4_common_plus_signin_btn_icon_dark_focused.9.png.flat",
+        "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.0.2.aar\\c4a511f114b1a99d47f7d1563e58d5a2\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png"
     },
     {
         "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_switch_thumb.xml.flat",
@@ -140,12 +140,12 @@
         "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\dfb0da06bad704051dec36d7a09dfb44\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
-        "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.0.2.aar\\c4a511f114b1a99d47f7d1563e58d5a2\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
-    },
-    {
         "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\dfb0da06bad704051dec36d7a09dfb44\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.0.2.aar\\c4a511f114b1a99d47f7d1563e58d5a2\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -204,12 +204,12 @@
         "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\dfb0da06bad704051dec36d7a09dfb44\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_plus_signin_btn_text_light_pressed.9.png.flat",
-        "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.0.2.aar\\c4a511f114b1a99d47f7d1563e58d5a2\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png"
-    },
-    {
         "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_edittext.xml.flat",
         "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\dfb0da06bad704051dec36d7a09dfb44\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_plus_signin_btn_text_light_pressed.9.png.flat",
+        "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.0.2.aar\\c4a511f114b1a99d47f7d1563e58d5a2\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_full_open_on_phone.png.flat",
@@ -324,36 +324,36 @@
         "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.0.2.aar\\c4a511f114b1a99d47f7d1563e58d5a2\\res\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11_notification_template_big_media_custom.xml.flat",
-        "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\dfb0da06bad704051dec36d7a09dfb44\\res\\layout-v11\\notification_template_big_media_custom.xml"
-    },
-    {
         "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\dfb0da06bad704051dec36d7a09dfb44\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
-        "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\dfb0da06bad704051dec36d7a09dfb44\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+        "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\dfb0da06bad704051dec36d7a09dfb44\\res\\layout-v11\\notification_template_big_media_custom.xml"
     },
     {
         "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\dfb0da06bad704051dec36d7a09dfb44\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\dfb0da06bad704051dec36d7a09dfb44\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
         "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\dfb0da06bad704051dec36d7a09dfb44\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_plus_signin_btn_text_dark_pressed.9.png.flat",
-        "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.0.2.aar\\c4a511f114b1a99d47f7d1563e58d5a2\\res\\drawable-xhdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png"
-    },
-    {
         "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\dfb0da06bad704051dec36d7a09dfb44\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_plus_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.0.2.aar\\c4a511f114b1a99d47f7d1563e58d5a2\\res\\drawable-xhdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -368,12 +368,12 @@
         "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.0.2.aar\\c4a511f114b1a99d47f7d1563e58d5a2\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
-        "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\dfb0da06bad704051dec36d7a09dfb44\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
         "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_disabled.9.png.flat",
         "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.0.2.aar\\c4a511f114b1a99d47f7d1563e58d5a2\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\dfb0da06bad704051dec36d7a09dfb44\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -654,6 +654,10 @@
     {
         "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light.xml.flat",
         "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.0.2.aar\\c4a511f114b1a99d47f7d1563e58d5a2\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.png.flat",
+        "source": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\src\\main\\res\\drawable\\home.png"
     },
     {
         "merged": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
