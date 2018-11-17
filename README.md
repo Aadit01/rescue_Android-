@@ -1,6 +1,8 @@
-Topic:Rescue
+Topic:Panic
+
 Professor: Charles Hoot
 Group Member: Jing Li, Pappu Shah, Aadit Yadav, Abhishek manandhar
+
 
 Uses: We build this application to help people in danger. User can connect to nearest hospital, police station
 and fire station. Just by pressing the panic button, users current location can be send to Family
@@ -12,6 +14,14 @@ For the first milestone we worked on:
 3)All the main activity has there own personal page
 4) We are currently looking into google map API integration.
 5)Working with user login page.
+
+
+
+To run the application open firebase login folder the open the main activity
+1) It will ask for the login first. Login through fire base is compulsory.
+2) As soon as you get in you are taken to the seconday settings page then you can navigate to main page then you can y=use all teh navigation from there.
+3) Currently we have connected the login with firebase auth.
+4) For the devices we are currently running our project in Nexux 6p API 28
 
 Layouts and their Description:  
  
@@ -35,8 +45,8 @@ Require functionality:
 2) Descriptions of data to be entered into the system 
 3)Descriptions of operations performed by each screen
 4)Security requirements
-ï¿½	Admin need to login with their valid login credentials in order to access the system
-ï¿½	View User: All the registered userï¿½s details can be viewed by admin.Division of work: 
+•	Admin need to login with their valid login credentials in order to access the system
+•	View User: All the registered user’s details can be viewed by admin.Division of work: 
 
 Aadit: Aadit is the project manager he is looking into both front end and the back-end and currently he is currently working in firebase Authentication.
 Abhishek: Is working on google Map integration and GPS system in general for the Application> he is mostly working in the back end.
@@ -47,11 +57,10 @@ Some of the test performed:
 Login user Authentication 	Pass
 Registration for new User	Pass
 Storing data in Firebase	Pass
-Sign out User	            pass
-Change Password	            Fail
-Google Map Integration      Fail
+Sign out User	                pass
+Change Password	                Pass
+Google Map Integration 	        Fail
 Current Location	        Fail 
 GPS notification 	        Fail
 General App Navigation   	Pass
-
-
+App Navigation			Pass

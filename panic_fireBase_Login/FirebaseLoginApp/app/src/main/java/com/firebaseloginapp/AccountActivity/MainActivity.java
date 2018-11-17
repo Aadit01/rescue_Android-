@@ -80,6 +80,7 @@ public class MainActivity extends AppCompatActivity {
         remove.setVisibility(View.GONE);
 
         progressBar = (ProgressBar) findViewById(R.id.progressBar);
+       // progressBar = (progressBar) findViewById(R.id.progressBar);
 
         if (progressBar != null) {
             progressBar.setVisibility(View.GONE);

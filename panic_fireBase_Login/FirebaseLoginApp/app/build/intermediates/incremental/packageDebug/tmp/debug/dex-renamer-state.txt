@@ -1,0 +1,4 @@
+#Fri Nov 16 20:47:04 CST 2018
+base.0=C\:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
