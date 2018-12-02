@@ -29,6 +29,10 @@ public class MainActivity extends AppCompatActivity {
     private ProgressBar progressBar;
     private FirebaseAuth auth;
 
+    public void homeButton(View v){
+        Intent i= new Intent(this,mainPage.class);
+        startActivity(i);
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
