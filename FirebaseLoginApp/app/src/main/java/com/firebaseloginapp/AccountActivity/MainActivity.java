@@ -30,6 +30,10 @@ public class MainActivity extends AppCompatActivity {
     private FirebaseAuth auth;
 
 
+    public void gotoMainPage(View v){
+        Intent i= new Intent(this,mainPage.class);
+        startActivity(i);
+    }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -54,6 +58,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         };
+
 
 
         btnChangePassword = (Button) findViewById(R.id.change_password_button);
@@ -100,6 +105,7 @@ public class MainActivity extends AppCompatActivity {
                 remove.setVisibility(View.GONE);
             }
         });
+
 
         changePassword.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -169,7 +175,7 @@ public class MainActivity extends AppCompatActivity {
     @SuppressLint("SetTextI18n")
     private void setDataToView(FirebaseUser user) {
 
-        email.setText("User Email: " + user.getEmail());
+        email.setText(user.getEmail());
 
 
     }

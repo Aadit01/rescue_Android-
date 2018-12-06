@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Aadit yadav\\Desktop\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\FirebaseLoginApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\constraint-layout-1.0.2.aar\\51260f6c03d9f8bba4b011eb0f8c9c8e\\res\\values\\values.xml",
@@ -23,20 +23,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Aadit yadav\\Desktop\\panic_fireBase_Login\\FirebaseLoginApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "source": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\FirebaseLoginApp\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "3,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "56,114",
-                        "endColumns": "57,39",
-                        "endOffsets": "109,149"
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "366"
                     },
                     "to": {
-                        "startLines": "403,413",
-                        "startColumns": "4,4",
-                        "startOffsets": "41778,42620",
-                        "endColumns": "57,39",
-                        "endOffsets": "41831,42655"
+                        "startLines": "551",
+                        "startColumns": "4",
+                        "startOffsets": "54183",
+                        "endLines": "556",
+                        "endColumns": "12",
+                        "endOffsets": "54495"
                     }
                 },
                 {
@@ -59,43 +61,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Aadit yadav\\Desktop\\panic_fireBase_Login\\FirebaseLoginApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\FirebaseLoginApp\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "366"
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,114",
+                        "endColumns": "57,39",
+                        "endOffsets": "109,149"
                     },
                     "to": {
-                        "startLines": "551",
-                        "startColumns": "4",
-                        "startOffsets": "54183",
-                        "endLines": "556",
-                        "endColumns": "12",
-                        "endOffsets": "54495"
+                        "startLines": "403,413",
+                        "startColumns": "4,4",
+                        "startOffsets": "41778,42620",
+                        "endColumns": "57,39",
+                        "endOffsets": "41831,42655"
                     }
                 },
                 {
-                    "source": "C:\\Users\\Aadit yadav\\Desktop\\panic_fireBase_Login\\FirebaseLoginApp\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "6,8,7,15,16,18,4,2,3,10,11,12,13,14,17,9",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "200,289,243,623,667,757,153,55,102,371,417,468,517,569,714,331",
-                        "endColumns": "42,41,45,43,46,46,45,46,50,45,50,48,51,53,42,39",
-                        "endOffsets": "238,326,284,662,709,799,194,97,148,412,463,512,564,618,752,366"
-                    },
-                    "to": {
-                        "startLines": "110,111,112,119,120,121,124,125,126,152,153,154,155,156,157,191",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "5598,5641,5683,6255,6299,6346,6508,6554,6601,8599,8645,8696,8745,8797,8851,11072",
-                        "endColumns": "42,41,45,43,46,46,45,46,50,45,50,48,51,53,42,39",
-                        "endOffsets": "5636,5678,5724,6294,6341,6388,6549,6596,6647,8640,8691,8740,8792,8846,8889,11107"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Aadit yadav\\Desktop\\panic_fireBase_Login\\FirebaseLoginApp\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "source": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\FirebaseLoginApp\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -109,23 +92,6 @@
                         "startOffsets": "51934,52164,52398,52480,52584,52687,52807",
                         "endColumns": "143,106,81,103,102,119,95",
                         "endOffsets": "52073,52266,52475,52579,52682,52802,52898"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Aadit yadav\\Desktop\\panic_fireBase_Login\\FirebaseLoginApp\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "2,1,5,23,25,21,19,18,16,27,22,26,28,6,7,3,31,30,13,15,24,14,29,4,10,17,9,8,12,11,20",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "59,16,250,1408,1518,1276,1120,1025,910,1606,1346,1564,1652,354,408,117,1894,1767,767,863,1465,812,1702,157,600,954,548,468,710,650,1196",
-                        "endColumns": "57,42,103,56,45,69,75,94,43,45,61,41,49,53,59,39,45,126,44,46,52,50,64,92,49,70,51,79,56,59,79",
-                        "endOffsets": "112,54,349,1460,1559,1341,1191,1115,949,1647,1403,1601,1697,403,463,152,1935,1889,807,905,1513,858,1762,245,645,1020,595,543,762,705,1271"
-                    },
-                    "to": {
-                        "startLines": "476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,523,524,526,532,533,534,535,536,537,538,539,540,542,544,545,546",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "46760,46818,46861,46965,47022,47068,47138,47214,47309,47353,47399,47461,47503,47553,47607,52078,52118,52271,52903,52948,52995,53048,53099,53164,53257,53307,53378,53483,53634,53691,53751",
-                        "endColumns": "57,42,103,56,45,69,75,94,43,45,61,41,49,53,59,39,45,126,44,46,52,50,64,92,49,70,51,79,56,59,79",
-                        "endOffsets": "46813,46856,46960,47017,47063,47133,47209,47304,47348,47394,47456,47498,47548,47602,47662,52113,52159,52393,52943,52990,53043,53094,53159,53252,53302,53373,53425,53558,53686,53746,53826"
                     }
                 },
                 {
@@ -146,6 +112,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\FirebaseLoginApp\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "6,8,7,15,16,18,4,2,3,10,11,12,13,14,17,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "200,289,243,623,667,757,153,55,102,371,417,468,517,569,714,331",
+                        "endColumns": "42,41,45,43,46,46,45,46,50,45,50,48,51,53,42,39",
+                        "endOffsets": "238,326,284,662,709,799,194,97,148,412,463,512,564,618,752,366"
+                    },
+                    "to": {
+                        "startLines": "110,111,112,119,120,121,124,125,126,152,153,154,155,156,157,191",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "5598,5641,5683,6255,6299,6346,6508,6554,6601,8599,8645,8696,8745,8797,8851,11072",
+                        "endColumns": "42,41,45,43,46,46,45,46,50,45,50,48,51,53,42,39",
+                        "endOffsets": "5636,5678,5724,6294,6341,6388,6549,6596,6647,8640,8691,8740,8792,8846,8889,11107"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Aadit yadav\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-9.0.2.aar\\43365dd9ca5ed91d4bbcc5e353a0323a\\res\\values\\values.xml",
                     "from": {
                         "startLines": "5,8",
@@ -160,6 +143,23 @@
                         "startOffsets": "44385,50358",
                         "endColumns": "66,218",
                         "endOffsets": "44447,50572"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Aadit yadav\\Desktop\\Android project\\rescue_Android-\\FirebaseLoginApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,1,5,23,25,21,19,18,16,27,22,26,28,6,7,3,31,30,13,15,24,14,29,4,10,17,9,8,12,11,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "59,16,250,1408,1518,1276,1120,1025,910,1606,1346,1564,1652,354,408,117,1894,1767,767,863,1465,812,1702,157,600,954,548,468,710,650,1196",
+                        "endColumns": "57,42,103,56,45,69,75,94,43,45,61,41,49,53,59,39,45,126,44,46,52,50,64,92,49,70,51,79,56,59,79",
+                        "endOffsets": "112,54,349,1460,1559,1341,1191,1115,949,1647,1403,1601,1697,403,463,152,1935,1889,807,905,1513,858,1762,245,645,1020,595,543,762,705,1271"
+                    },
+                    "to": {
+                        "startLines": "476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,523,524,526,532,533,534,535,536,537,538,539,540,542,544,545,546",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "46760,46818,46861,46965,47022,47068,47138,47214,47309,47353,47399,47461,47503,47553,47607,52078,52118,52271,52903,52948,52995,53048,53099,53164,53257,53307,53378,53483,53634,53691,53751",
+                        "endColumns": "57,42,103,56,45,69,75,94,43,45,61,41,49,53,59,39,45,126,44,46,52,50,64,92,49,70,51,79,56,59,79",
+                        "endOffsets": "46813,46856,46960,47017,47063,47133,47209,47304,47348,47394,47456,47498,47548,47602,47662,52113,52159,52393,52943,52990,53043,53094,53159,53252,53302,53373,53425,53558,53686,53746,53826"
                     }
                 }
             ]
