@@ -9,7 +9,7 @@
 
     <EditText
         android:id="@+id/old_email"
-        android:layout_width="178dp"
+        android:layout_width="263dp"
         android:layout_height="wrap_content"
         android:layout_above="@+id/password"
         android:layout_centerHorizontal="true"
@@ -188,7 +188,7 @@
 
     <TextView
         android:id="@+id/useremail"
-        android:layout_width="212dp"
+        android:layout_width="264dp"
         android:layout_height="26dp"
         android:layout_above="@+id/old_email"
         android:layout_centerHorizontal="true"
